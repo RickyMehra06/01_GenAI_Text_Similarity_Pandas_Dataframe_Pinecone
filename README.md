@@ -1,0 +1,2 @@
+# 01_GenAI_Text_Similarity_Pandas_Dataframe_Pinecone
+01_GenAI_Text_Similarity_Pinecone_Pandas_Dataframe
